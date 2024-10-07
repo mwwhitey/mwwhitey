@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwwhitey
+- 👋 Hi, I’m @mylesjw
 - 👀 I’m interested in ... Robotics, automation, mechatronic etc.
 - 🌱 I’m currently learning ... more software skills to supplement the hardware skills I continue to work on
 - 💞️ I’m looking to collaborate on ... any projects in automation, design, robotics 
